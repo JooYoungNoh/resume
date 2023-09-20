@@ -2,7 +2,8 @@
 <img width="200" height="270" border:0px src="https://github.com/JooYoungNoh/resume/blob/main/img/resumeMe.png?raw=true"/>
 </div>
 
-## <span style= 'background-color: #f1f8ff'> **#노주영** **#iOS** **#Swift** </span> </br> </br> <span style= 'color: red'>Information</span>
+# Information
+###  **#노주영** **#iOS** **#Swift** **#앱 개발자**
 
 ### 🤵  1997.09.01  남
 
@@ -12,7 +13,7 @@
 
 ### 📍 경기도 안양시
 
-### 🔗  [깃허브](https://github.com/JooYoungNoh), [노션](https://gossamer-quiver-b4b.notion.site/s-World-010c422d7b4d44f394b16fbb2c434150?pvs=4)
+### 🔗  [깃허브](https://github.com/JooYoungNoh), [노션](https://gossamer-quiver-b4b.notion.site/s-World-010c422d7b4d44f394b16fbb2c434150?pvs=4), [기술  블로그](https://blog.naver.com/nohjoo97)
 
 </br></br>
 
